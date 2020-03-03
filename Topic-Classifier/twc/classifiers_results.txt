@@ -1,0 +1,3 @@
+LinearSVC_classifier accuracy: 88.0
+NaiveBayes accuracy: 83.0
+MNB_classifier accuracy: 84.0
